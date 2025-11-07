@@ -37,5 +37,5 @@ Here are the primary technologies I work with. I'm always learning and eager to 
 
 I am currently looking for a 6-month internship starting in January 2026 and am always open to discussing new projects, creative ideas, or opportunities.
 
-* **LinkedIn:** [linkedin.com/in/your-username](https://www.linkedin.com/in/thibaud-fievet-a964972b5/)
-* **Email:** [your.email@provider.com](mailto:thibaud.fievet@gmail.com)
+* **LinkedIn:** [linkedin.com/in/thibaud-fievet](https://www.linkedin.com/in/thibaud-fievet-a964972b5/)
+* **Email:** [thibaud.fievet@gmail.com](mailto:thibaud.fievet@gmail.com)
