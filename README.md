@@ -2,11 +2,11 @@
 
 ### I'm Thibaud Fievet, a student in a double diploma in Finance and Data analytics between Edhec Business School and Université de Technologie de Compiègne (UTC)
 
-> **I am passionate about understanding economic mechanisms and how data and algorithms can drive better decisions and performance. Thus, most of my project will be finance-oriented. This GitHub profile serves as a professional portfolio of my work, a place where I apply my skills, document my learning journey, and showcase my abilities to potential recruiters and collaborators.**
+> **I am passionate about understanding economic mechanisms and how data and algorithms can drive better decisions and performance. Thus, most of my project will be finance-oriented. Some of them are personnal project and some other are developped as school project. This GitHub profile serves as a professional portfolio of my work, a place where I apply my skills, document my learning journey, and showcase my abilities to potential recruiters and collaborators.**
 
 ---
 
-### 🌱 What I'm Passionate About
+### 🌱 My Core Focus & Project Themes
 
 My interests lie at the intersection of **quantitative finance** and **data-driven economic analysis**. I am focused on using technology to model complex systems and find practical, performant solutions.
 
