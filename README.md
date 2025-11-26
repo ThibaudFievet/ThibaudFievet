@@ -8,7 +8,7 @@
 
 ### 🎯 My Core Focus & Project Themes
 
-My interests lie at the intersection of **quantitative finance** and **data-driven economic analysis**. I am focused on using technology to model complex systems and find practical, performant solutions.
+My interests lie at the intersection of **quantitative finance** and **data-driven economic analysis**. I am focused on using technology to model systems and find practical, performant solutions.
 
 My projects are primarily focused on:
 
