@@ -1,4 +1,4 @@
-### 👋 Hello! Welcome to my Profile.
+### Hello! Welcome to my Profile.
 
 ### I'm Thibaud Fievet, a student in a double diploma in Finance and Data analytics between Edhec Business School and Université de Technologie de Compiègne (UTC)
 
@@ -6,7 +6,7 @@
 
 ---
 
-### 🎯 My Core Focus & Project Themes
+### My Core Focus & Project Themes
 
 My interests lie at the intersection of **quantitative finance** and **data-driven economic analysis**. I am focused on using technology to model systems and find practical, performant solutions.
 
@@ -18,7 +18,7 @@ My projects are primarily focused on:
 
 ---
 
-### 🛠️ My Tech Stack & Skills
+### My Tech Stack & Skills
 
 Here are the primary technologies I work with. I'm always learning and eager to pick up new tools.
 
@@ -29,13 +29,13 @@ Here are the primary technologies I work with. I'm always learning and eager to 
 | **Machine Learning & Deep Learning** | `Scikit-learn` `TensorFlow` `Keras` `PyTorch` |
 | **Data Visualization** | `Matplotlib` `Seaborn` |
 | **Databases** | `PostgreSQL` `MySQL` |
-| **Other Tools & Web** | `Git` `Jupyter Notebooks` `Google Colab` `HTML` `CSS` |
+| **Other Tools & Web** | `Git` `Jupyter Notebooks` `HTML` `CSS` |
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
-I am currently looking for a 6-month internship starting in January 2026 and am always open to discussing new projects, creative ideas, or opportunities.
+I am always open to discussing new projects, creative ideas, or opportunities.
 
 * **[LinkedIn](https://www.linkedin.com/in/thibaud-fievet-a964972b5/)**
 * **[Email](mailto:thibaud.fievet@gmail.com)** 
