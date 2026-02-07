@@ -38,4 +38,4 @@ Here are the primary technologies I work with. I'm always learning and eager to 
 I am always open to discussing new projects, creative ideas, or opportunities.
 
 * **[LinkedIn](https://www.linkedin.com/in/thibaud-fievet-a964972b5/)**
-* **[Email](mailto:thibaud.fievet@gmail.com)** 
+* **[Email](mailto:thibaud.fievet@edhec.com)** 
