@@ -2,19 +2,17 @@
 
 ### I'm Thibaud Fievet, a student in a double diploma in Finance and Data analytics between Edhec Business School and Université de Technologie de Compiègne (UTC)
 
-> **I am passionate about understanding economic mechanisms and how data and algorithms can drive better decisions and performance. Thus, most of my project will be finance-oriented. Some of them are personnal project and some others are developped as school project. This GitHub profile serves as a professional portfolio of my work, a place where I apply my skills, document my learning journey, and showcase my abilities to potential recruiters and collaborators.**
+> **I am interested about understanding economic mechanisms and in leveraging data and innovative solutions to improve decision-making and performance. Due to my dual-degree curriculum, most of my projects are finance-oriented, even though I also enjoy developping projects in other fields. Some of them are personnal project and some others are developped as school project. This GitHub profile serves as a professional portfolio of my work.**
 
 ---
 
 ### My Core Focus & Project Themes
 
-My interests lie at the intersection of **quantitative finance** and **data-driven economic analysis**. I am focused on using technology to model systems and find practical, performant solutions.
-
 My projects are primarily focused on:
 
-* **Quantitative Modeling & Analysis:** Building and backtesting financial models, analyzing market data, and understanding economic indicators.
-* **Applying Machine Learning to Finance:** Using algorithms for tasks like risk assessment, time-series forecasting, and algorithmic strategy development.
-* **Data-Driven Strategy:** Extracting actionable insights from financial and economic datasets to support and automate strategic decisions.
+* **Quantitative Modeling through algorithms:** Building data models, exploring complex datasets, and evaluating performance indicators—with a strong application to financial and economic systems.
+* **AI-Driven Automation:** Leveraging AI to clean data, automate workflows, and generate straightforward reports that facilitate final decision-making. I firmly believe that, at the current time, AI is best utilized as an excellent tool and assistant to augment human capability, rather than being viewed as a "second brain".
+* **Applying Machine Learning:** I aim to deepen my knowledge of Machine Learning to uncover complex patterns and data insights that are beyond human reach. Because I value a rock-solid theoretical foundation, I deliberately choose to approach ML through structured academic coursework rather than self-taught personal projects, ensuring I master the core theory before rushing into application.
 
 ---
 
@@ -37,5 +35,5 @@ Here are the primary technologies I work with. I'm always learning and eager to 
 
 I am always open to discussing new projects, creative ideas, or opportunities.
 
-* **[LinkedIn](https://www.linkedin.com/in/thibaud-fievet-a964972b5/)**
+* **[LinkedIn](https://www.linkedin.com/in/thibaudfievet/)**
 * **[Email](mailto:thibaud.fievet@edhec.com)** 
