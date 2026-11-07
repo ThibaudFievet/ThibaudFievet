@@ -2,9 +2,9 @@
 
 ### Bonjour ! Bienvenue sur mon profil.
 
-### Je m'appelle Thibaud Fievet, étudiant en double diplôme Finance et Ingénierie digitale entre l'EDHEC Business School et l'Université de Technologie de Compiègne (UTC)
+### Je m'appelle Thibaud Fievet, étudiant en double diplôme Ingénierie digitale et management (majeure finance) entre l'Université de Technologie de Compiègne (UTC) et l'EDHEC Business School
 
-> **Je m'intéresse à la compréhension des mécanismes économiques ainsi qu'à l'exploitation de la donnée et de solutions innovantes pour optimiser la prise de décision et la performance. De par mon double cursus, la majorité de mes projets est orientée vers la finance et l'économie, même si j'apprécie également développer des projets dans d'autres domaines. Certains sont des projets personnels, d'autres ont été réalisés dans un cadre académique. Ce profil GitHub fait office de portfolio professionnel de mes travaux.**
+> **Je m'intéresse à la compréhension des mécanismes économiques / financiers ainsi qu'à l'exploitation de la donnée et de solutions innovantes pour optimiser la prise de décision et la performance. De par mon double cursus, la majorité de mes projets est orientée vers la finance et l'économie, même si j'apprécie également développer des projets dans d'autres domaines, notamment des domaines où l'exploitation des données et la modélisation via le machine learning sont utiles. Certains sont des projets personnels, d'autres ont été réalisés dans un cadre académique. Ce profil GitHub fait office de portfolio professionnel de mes travaux.**
 
 ---
 
@@ -36,7 +36,7 @@ Je suis toujours ouvert aux discussions autour de nouveaux projets, d'idées cr�
 
 ### I'm Thibaud Fievet, a student in a double degree in Finance and Digital Engineering between Edhec Business School and engineering school Université de Technologie de Compiègne (UTC)
 
-> **I am interested about understanding economic mechanisms and in leveraging data and innovative solutions to improve decision-making and performance. Due to my dual-degree curriculum, most of my projects are finance/economic-oriented, even though I also enjoy developping projects in other fields. Some of them are personnal project and some others are developped as school project. This GitHub profile serves as a professional portfolio of my work.**
+> **I am interested about understanding economic / financial mechanisms and in leveraging data and innovative solutions to improve decision-making and performance. Due to my dual-degree curriculum, most of my projects are finance/economic-oriented, even though I also enjoy developping projects in other fields, for instance fields where data exploitation and machine learning modelization are useful. Some of them are personnal project and some others are developped as school project. This GitHub profile serves as a professional portfolio of my work.**
 
 ---
 
